@@ -1,3 +1,3 @@
 # payjumppoker
 
-Sitio de Payjump. Se genera desde la carpeta `marketing/sitio` del repo del producto; no editar aca.
+Este repo solo redirige a https://payjumppoker.github.io/ (el sitio vive en la organizacion `payjumppoker`).
